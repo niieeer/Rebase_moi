@@ -10,3 +10,7 @@ body {
 
 
 /* je commente pour mon collègue */
+
+* {
+    background-color: royalblue;
+}
